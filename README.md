@@ -34,7 +34,6 @@
 [![AGPL License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-<br/>
 
 #### Apaixonado por tecnologia, metodologias e apredizado contínuo,</br> desenvolvo projetos e estudo programação a mais de 20 anos.
 
