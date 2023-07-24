@@ -35,5 +35,5 @@
 
 
 
-#### Apaixonado por tecnologia, metodologias e apredizado contínuo,</br> desenvolvo projetos e estudo programação a mais de 20 anos.
+#### Apaixonado por tecnologia, metodologias e apredizado contínuo,</br> desenvolvo projetos e estudo programação intensamente.
 
